@@ -1,3 +1,3 @@
 fn main() {
-    println!("gotoharuhiro.よろしく");
+    println!("後藤春大です。よろしくお願いします。");
 }
